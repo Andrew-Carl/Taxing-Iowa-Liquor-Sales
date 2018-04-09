@@ -1,5 +1,7 @@
 # Taxing-Iowa-Liquor-Sales
 
+![liquor-2687103_1280](https://user-images.githubusercontent.com/35437820/38502789-5ac5b04e-3bde-11e8-959e-8edd9e592683.jpg)
+
 # Overview
 The state of Iowa provides many datasets on their website, including this which contains transactions for all stores that have a class E liquor license.
 
@@ -10,7 +12,7 @@ Please save these .csv files on your local computer. Do NOT put them in your Git
 # Scenario
 The Iowa State legislature is considering changes in the liquor tax rates and wants a report of current liquor sales by county and projections for the rest of the year to inform their decision.
 
-Goal for Scenario:
+# Goal for Scenario:
 
 Calculate the yearly liquor sales for each store using the provided data. You can add up the transactions for each year, and store sales in 2015 specifically will be used later as your target variable.
 Use the data from 2015 to make a linear model using as many variables as you find useful to predict the yearly sales of all stores. You must use the sales from January to March as one of your variables.
