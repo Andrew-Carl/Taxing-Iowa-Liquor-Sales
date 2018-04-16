@@ -19,4 +19,4 @@ Use the data from 2015 to make a linear model using as many variables as you fin
 Use your model for 2015 to estimate total sales in 2016, extrapolating from the sales so far for January to March of 2016.
 Report your findings, including any projected increase or decrease in total sales (over the entire state) for the tax committee of the Iowa legislature.
 Use cross-validation to check how your model predicts to held out data compared to the model metrics on the full dataset.
-Fit your model(s) using one or both of the regularization tactics covered. Explain whether the regularized or the non-regularized model performed better and what the selected regression(s) are doing.
+Fit your model(s) using one or both of the regularization tactics covered. Explain whether the regularized or the non-regularized model performed better and what the selected regression(s) are doing. 
